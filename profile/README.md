@@ -21,7 +21,7 @@ or wrap it with the CLI, which also reports the exit code, duration and output:
 | Repository | What it is |
 |---|---|
 | [cli](https://github.com/HeartCron/cli) | `heartcron run`, `ping` and `checks` for Linux, macOS and Windows |
-| [ping-action](https://github.com/HeartCron/ping-action) | GitHub Action that reports scheduled workflow runs |
+| [ping-action](https://github.com/HeartCron/ping-action) | GitHub Action that reports scheduled workflow runs ([Marketplace](https://github.com/marketplace/actions/heartcron-ping)) |
 | [examples](https://github.com/HeartCron/examples) | Ready setups for Bash, Docker, Kubernetes, systemd, Laravel, Python and Node |
 
 ## Links
